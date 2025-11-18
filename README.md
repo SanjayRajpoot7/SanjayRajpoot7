@@ -1,10 +1,5 @@
-- 👋 Hi, I’m Sanjay Rajpoot
-- 👀 I’m interested in learning coding and solving coding related problem.
-- 🌱 I’m currently learning Spring Boot and Angular.
-- 📫 How to reach me, you can reach out me by linkedin []
-- ⚡ Fun fact: I am software engineer in a MNC company. My role is Associate Engineer.
-
-<!---
-SanjayRajpoot7/SanjayRajpoot7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Sanjay Rajpoot  
+👨‍💻 I’m a software engineer currently working at a multinational company as an Software Engineer.  
+🧪 I’m currently contributing to a project in the role of a tester, focusing on ensuring software quality and reliability.  
+🚀 I’m passionate about coding and enjoy solving complex programming challenges alongside improving test coverage and automation.
+⚡ Fun fact: I love exploring new tech stacks and building clean, scalable applications—even when I’m testing them!
